@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android HT1</string>
+    <string name="myInquiry">Введите ваш запрос</string>
+    <string name="Inquiry">Запрос</string>
+</resources>
